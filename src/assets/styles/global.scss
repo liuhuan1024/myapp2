@@ -1,4 +1,14 @@
 // @import "../fonts/font_2194560_nxv6rxz2m7d/iconfont.css";
 body {
-  background-color: pink;
+  background-color: #f6f7fa;
+}
+.van-nav-bar {
+  background-color: #1989fa;
+  color: #fff;
+  .van-icon {
+    color: #fff;
+  }
+  .van-nav-bar__title {
+    color: #fff;
+  }
 }
