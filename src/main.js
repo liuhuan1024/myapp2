@@ -10,6 +10,8 @@ import '@/assets/styles/global.scss'
 
 import 'amfe-flexible'
 import { data, userinfo } from '@/mock/index'
+import '@/utils/dayjs'
+
 data()
 userinfo()
 Vue.use(Vant)
